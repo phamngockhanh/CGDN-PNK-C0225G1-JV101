@@ -4,3 +4,6 @@
 
 - Nhập môn lập trình C1: https://studio.code.org/certificates/eyJuYW1lIjoiUGjhuqFtIE5n4buNYyBLaMOhbmgiLCJjb3Vyc2UiOiJjb3Vyc2UxIiwiZG9ub3IiOiJBbWF6b24ifQ
 
+
+- Nhập môn lập trình C2:
+https://studio.code.org/certificates/eyJuYW1lIjoiUGjhuqFtIE5n4buNYyBLaMOhbmgiLCJjb3Vyc2UiOiJjb3Vyc2UyIiwiZG9ub3IiOiJGYWNlYm9vayJ9
